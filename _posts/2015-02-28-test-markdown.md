@@ -11,9 +11,6 @@ tags:
   - test
 published: true
 ---
-
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc. 
-
 This past week, all over the world, in an instant people’s lives were forever changed. People were shaken to their very core, questioning their existence, their very place in such a traumatically different digital world… the world of Snapchat version 10.25.2.0 (for IPhone)/10.25.5.2 (for Android).
 
 
