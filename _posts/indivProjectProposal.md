@@ -20,7 +20,7 @@ Figure 1: Screens of snapchat update. _Source: https://www.elitedaily.com/p/why-
 
 While reactions from this new update were largely negative,
 
-
+![screenshot1](http://joycemwang.github.com/joycemwang.github.io/Screen Shot 2018-02-11 at PM 9.03.01.png)
 
 Figure 2.1, 2.2, 2.3: Bad reactions from Snapchat update. _Sources:https://www.thedailybeast.com/snapchats-new-update-triggers-revolt-by-millions-of-teens, https://www.buzzfeed.com/amberjamieson/how-to-get-rid-of-the-new-snapchat-update?utm_term=.mb5ObBodva#.al59NJagkx, https://www.change.org/p/snap-inc-remove-the-new-snapchat-update._
 
