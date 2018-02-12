@@ -2,7 +2,6 @@
 layout: post
 title: A New Camera Company
 subtitle: Like Snapchat, but, like, better
-bigimg: /img/path.jpg
 ---
 
 This past week, all over the world, in an instant people’s lives were forever changed. People were shaken to their very core, questioning their existence, their very place in such a traumatically different digital world… the world of Snapchat version 10.25.2.0 (for IPhone)/10.25.5.2 (for Android).
