@@ -6,7 +6,7 @@ title: Design Manifesto
 The design process formed the framework and outlined the steps needed to create a meaningful product that provides fundamental utility to users. A design-thinking process is important now more than ever with innovation and new technology happening at a rate greater than ever before. While the technology created today offers a wide array of new capabilities, these new technologies add complexity and, more often than not as we see today, are implemented in a manner that doesn’t translate to the increased welfare of society. Creation inherently involves design, and good creations ultimately require good design practices. When followed, design-thinking organizes and sequences steps to create products that can even be formally considered technology, the application of knowledge for *practical* purposes. From going through these steps, my design process was defined by five key points, essential to any application:
 user empathy, specifically 1) user research through 2) contextual inquiry
 4) accessibility
-5) ethics
+5) ethics.
 
 ## User Empathy
 One of the most important principles of the design process is its emphasis on users. Building products for users mandates an understanding of the problems and motivations of users. While this may seem obvious, users can be easily left out of the equation when building products. If you consider the parties involved in creating technology, no party truly represents and gives voice to those who the product is being created for. Though the parties involved with making the product may be potential users, their direct role in creating the product taints and biases their part as users. For examples, engineers may come up with an idea for a product that makes their lives easier. However, when actually building the product, as makers, they think technically and logically at every point and so create solutions with the unconscious base assumption that all users are guided by this same logic and understanding of the system at hand. Those coming from a business perspective are tainted by considering the product through the lens of turning profit, the conceptions of which may overlap at some points with the user’s perspective but also may contradict it. User empathy brings the user back to the forefront of product creation, a feat more difficult to reinforce than expected. This strain came up at many points of our design process.
@@ -27,9 +27,9 @@ Just as I realized in hindsight with our project, there can be no sacrificing so
 
 Undergoing the design process has ultimately evinced that, In addition to the Code of Ethics established, the following must also be ethical mandates:
 
-Ethics does not just relate to the higher-level purpose of the product or of the conception of an idea. It must be relevant at every point of the process and followed by every design choice
-In particular, we must work toward transparency of data usage between users and companies
-The ethics of a design must be continually re-evaluated with each iteration of a design or even more frequently. It is the responsibility and determination of designers to continually strive toward improving ethics.
+- Ethics does not just relate to the higher-level purpose of the product or of the conception of an idea. It must be relevant at every point of the process and followed by every design choice
+- In particular, we must work toward transparency of data usage between users and companies
+- The ethics of a design must be continually re-evaluated with each iteration of a design or even more frequently. It is the responsibility and determination of designers to continually strive toward improving ethics.
 
 
 ## Accessibility
